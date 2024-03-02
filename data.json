@@ -1,0 +1,27 @@
+{
+  "description": "Wall Street Memes ETH20",
+  "links": [
+    {
+       "type": "link",
+       "name": "X/Twitter",
+       "url": "https://x.com/team_wsm20"
+     },
+     {
+       "type": "link",
+       "name": "Telegram",
+       "url": "https://t.me/wallstmemes20"
+     },
+     {
+       "type": "token",
+       "name": "WSM20 Token",
+       "chain": "eth",
+       "address": "0x383684915ad4549884125d529df3bb45a3d479eb"
+     }
+  ],
+  "copy": {
+   "chain": "eth",
+   "address": "0x383684915ad4549884125d529df3bb45a3d479eb",
+   "keys": ["meme"]
+  },
+  "icon": "icon-wsm20.png"
+}
